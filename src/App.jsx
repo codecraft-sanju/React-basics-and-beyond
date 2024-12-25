@@ -6,6 +6,8 @@ import ToggleMessage from './components/ToggleMessage';
 import ItemList from './components/ItemList';
 import ControlledForm from './components/ControlledForm';
 import Ap from './components/Ap';
+import ReactContextApi from './components/ReactContextApi';
+import Hooks from './components/Hooks';
 
 function App() {
   return (
@@ -18,6 +20,8 @@ function App() {
       <ItemList></ItemList>
       <ControlledForm></ControlledForm>
       <Ap></Ap>
+      <ReactContextApi></ReactContextApi>
+      <Hooks></Hooks>
 
     </>
   );
