@@ -1,5 +1,5 @@
 {
-  "name": "my-project",
+  "name": "learing-hooks",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,10 +10,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "my-project": "file:../React-basics-and-beyond",
+    "learing-hooks": "file:../Learing Hooks",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1",
-    "react-router-dom": "^7.1.1"
+    "react-dom": "^18.3.1"
   },
   "devDependencies": {
     "@eslint/js": "^9.17.0",
